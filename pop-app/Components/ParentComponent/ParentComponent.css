@@ -12,3 +12,9 @@
     margin: 100px auto;
     text-align: center;
   }
+
+  @media only screen and (max-width: 600px) {
+    .demo_wrapper {
+      width: 90%;
+    }
+}

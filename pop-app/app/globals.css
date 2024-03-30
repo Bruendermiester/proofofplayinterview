@@ -52,3 +52,10 @@ main {
   right: 2px;
   width: 15px;
 }
+
+@media only screen and (max-width: 600px) {
+    .background_blocks {
+      height: 100vh;
+      background-position: center center;
+    }
+}
