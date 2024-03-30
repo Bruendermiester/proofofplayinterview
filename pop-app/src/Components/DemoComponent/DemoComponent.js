@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState } from "react";
 import "./DemoComponent.css";
 
@@ -11,5 +13,3 @@ export default function DemoComponent() {
     </div>
   );
 }
-
-export const config = { runtime: 'client' };

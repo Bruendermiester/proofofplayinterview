@@ -48,7 +48,7 @@ main {
 }
 .hidden_not_so_hidden_image {
   position: absolute;
-  top:2px;
+  top: 2px;
   right: 2px;
-  width: 25px;
+  width: 15px;
 }

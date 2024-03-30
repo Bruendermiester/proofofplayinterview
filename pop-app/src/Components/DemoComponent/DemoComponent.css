@@ -5,8 +5,10 @@
     margin: 75px auto;
     min-height: 500px;
     padding: 10px;
+    border: 1px solid #FFF;
   }
   .demo_wrapper__container {
     width: 200px;
     margin: 100px auto;
+    text-align: center;
   }

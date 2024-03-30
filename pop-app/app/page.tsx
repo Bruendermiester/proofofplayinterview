@@ -9,7 +9,7 @@ export default function App() {
   }
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex min-h-screen flex-col items-center p-24">
       <div className='background_blocks' style={background_cubes}></div>
       <Image className="hidden_not_so_hidden_image" src={winningIconMattIsGoingDown} alt="Winning Dealer"width={50} height={50}/>
       <div className='title_pop'>
